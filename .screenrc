@@ -1,2 +1,3 @@
 vbell off
 term screen-256color
+defscrollback 10000
