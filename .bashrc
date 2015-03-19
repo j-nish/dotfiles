@@ -106,7 +106,7 @@ if [ -f /etc/bash_completion ] && ! shopt -oq posix; then
     . /etc/bash_completion
 fi
 
-export P4CONFIG=/home/jnishiguchi/p4/.p4config 
+export P4CONFIG=.p4config
 export P4ROOT=/home/jnishiguchi/p4
 
 export PATH=$PATH:/home/jnishiguchi/Android/Sdk/platform-tools
