@@ -6,11 +6,12 @@ My dotfiles
 
 ## To install
 ```bash
-git clone https://github.com/j00n/dotfiles.git && cd dotfiles && source link.sh
+git clone https://github.com/j00n/dotfiles.git && cd dotfiles && source link.sh && source git-aliases.sh
 ```
 
 ## To update
 ```bash
 git pull
 source link.sh
+source git-aliases.sh
 ```
